@@ -48,7 +48,7 @@
 | 𝘊𝘰𝘻𝘺 𝘧𝘭𝘰𝘸𝘦𝘳 𝘴𝘩𝘰𝘱 𝘴𝘪𝘮𝘶𝘭𝘢𝘵𝘪𝘰𝘯/𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 <br> 𝘨𝘢𝘮𝘦 𝘸𝘪𝘵𝘩 𝘢 17,000+ 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺. |3𝘋 𝘪𝘴𝘰𝘮𝘦𝘵𝘳𝘪𝘤 𝘴𝘭𝘢𝘱-𝘧𝘪𝘨𝘩𝘵𝘦𝘳 𝘸𝘪𝘵𝘩 4 𝘱𝘭𝘢𝘺𝘦𝘳 <br> 𝘭𝘰𝘤𝘢𝘭 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘢𝘺𝘦𝘳 𝘴𝘶𝘱𝘱𝘰𝘳𝘵. |
 | <a href="https://store.steampowered.com/app/3168520/BloomTale/"> <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)"/> </a> <a href="https://www.instagram.com/floralia_games/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/> </a> <a href="https://discord.gg/floralia"> <br> <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/> </a> | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> <a href="https://vfs-gdpg.itch.io/retirement-rumble"> <img alt="Itchio" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"/> </a> <br> <a href="https://discord.gg/pRzF6685"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/> </a>|
 
-| <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> |
+| <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460"> |
 |:--:|:--:|
 | **Bite Shift** | **Coming Soon** |
 | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> <a href="https://stephph.itch.io/bite-shift"> <img alt="Itchio" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"/> </a> |
@@ -56,12 +56,12 @@
 <h2 align = "center"> Other Projects 🗂️ </h2>
 <br><br>
 
-| <img src="https://github.com/user-attachments/assets/a79f6d8a-77bc-4ee0-a413-e362d09b4ddd" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> |
+| <img src="https://github.com/user-attachments/assets/a79f6d8a-77bc-4ee0-a413-e362d09b4ddd" alt="header" width="460"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460"> |
 |:--:|:--:|
 | **Genshin Impact Character Select Simulator** | **Pokemon Pocket TCG Simulator** |
 | <a href="https://github.com/maxgreenkirby/Genshin-Impact-Character-Selection/tree/main?tab=readme-ov-file"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
 
-| <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> |
+| <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460"> |
 |:--:|:--:|
 | **Unity GameObject Copy Tool** | **Stair Game** |
 | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
