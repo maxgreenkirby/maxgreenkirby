@@ -56,10 +56,10 @@
 <h2 align = "center"> Other Projects 🗂️ </h2>
 <br><br>
 
-| <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> |
+| <img src="https://github.com/user-attachments/assets/8ec62531-3614-46e7-8a87-6653cb9036d9" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> |
 |:--:|:--:|
 | **Genshin Impact Character Select Simulator** | **Pokemon Pocket TCG Simulator** |
-| <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
+| <a href="https://github.com/maxgreenkirby/Genshin-Impact-Character-Selection/tree/main?tab=readme-ov-file"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
 
 | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> |
 |:--:|:--:|
