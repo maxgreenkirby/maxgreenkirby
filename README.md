@@ -39,7 +39,10 @@
   <img alt="UnrealEngine" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white"/> 
 </p>
 
-<h2 align = "center"> Game Projects 🎮 </h2>
+<h2 align = "center"> Games 🎮 </h2>
+<br><br>
+
+<h2 align = "center"> Other Projects 🗂️ </h2>
 <br><br>
 
 <h2 align = "center"> Contact Me 📬 </h2>
