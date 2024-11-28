@@ -70,3 +70,6 @@
       <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
   </a>
 </p>
+
+<h2 align = "center"> UI Examples </h2>
+<br><br>
