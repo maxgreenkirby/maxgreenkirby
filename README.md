@@ -42,19 +42,58 @@
 <h2 align="center"> Games 🎮 </h2>
 <br><br>
 
-| <img src="https://github.com/user-attachments/assets/9ff9dc95-be54-45e9-b5d4-2cb6cfd6066a" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/4ecc4a2c-213d-4f00-a0fe-1ca0258a986e" alt="header" width="460" height="215"> |
-|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| **BloomTale** - Indie Game | **Retirement Rumble** - School Project |
-| 𝘊𝘰𝘻𝘺 𝘧𝘭𝘰𝘸𝘦𝘳 𝘴𝘩𝘰𝘱 𝘴𝘪𝘮𝘶𝘭𝘢𝘵𝘪𝘰𝘯/𝘮𝘢𝘯𝘢𝘨𝘦𝘮𝘦𝘯𝘵 <br> 𝘨𝘢𝘮𝘦 𝘸𝘪𝘵𝘩 𝘢 17,000+ 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺. |3𝘋 𝘪𝘴𝘰𝘮𝘦𝘵𝘳𝘪𝘤 𝘴𝘭𝘢𝘱-𝘧𝘪𝘨𝘩𝘵𝘦𝘳 𝘸𝘪𝘵𝘩 4 𝘱𝘭𝘢𝘺𝘦𝘳 <br> 𝘭𝘰𝘤𝘢𝘭 𝘮𝘶𝘭𝘵𝘪𝘱𝘭𝘢𝘺𝘦𝘳 𝘴𝘶𝘱𝘱𝘰𝘳𝘵. |
-| <a href="https://store.steampowered.com/app/3168520/BloomTale/"> <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)"/> </a> <a href="https://www.instagram.com/floralia_games/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/> </a> <a href="https://discord.gg/floralia"> <br> <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/> </a> | <a href="https://vfs-gdpg.itch.io/retirement-rumble"> <img alt="Itchio" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"/> </a> <a href="https://discord.gg/pRzF6685"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/> </a>|
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%" align="center">
+    
+#### 🌼 **BloomTale**
+*Indie Game*
+
+A cozy flower shop simulation game 𝘨𝘢𝘮𝘦 𝘸𝘪𝘵𝘩 𝘢 17,000+ 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘵𝘺. Arrange beautiful flower compositions that speak the language of flowers, manage your shop, and satisfy your customers in a world of blooming possibilities.
+
+<a href="https://store.steampowered.com/app/3168520/BloomTale/"> <img alt="Steam" src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"/> </a> <a href="https://www.instagram.com/floralia_games/"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/> </a> <a href="https://discord.gg/floralia"> <br> <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/> </a>
+  </td>
+
+  <td valign="top" width="50%" align="center">
+
+#### 👵🏻 **Retirement Rumble**
+*School Project*
+
+A 3D isometric slap-fighter where four retired high-fantasy legends battle for Raging Rita’s Big Room. Fight in her favorite vacation spots, knock out opponents, and use quirky weapons or arena hazards to win. Be the last fogie standing to claim the prize!
+
+<a href="https://vfs-gdpg.itch.io/retirement-rumble"> <img alt="Itchio" src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white"/> </a> <a href="https://discord.gg/pRzF6685"> <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/> </a>
+  </td>
+
+  </tr>
+  </table>
+</div>
 
 <h2 align = "center"> Other Projects 🗂️ </h2>
 <br><br>
 
-| <a href="https://github.com/maxgreenkirby/Genshin-Impact-Character-Selection/tree/main?tab=readme-ov-file"> <img src="https://github.com/user-attachments/assets/a79f6d8a-77bc-4ee0-a413-e362d09b4ddd" alt="header" width="460" height="215"> | <img src="https://github.com/user-attachments/assets/1ef1fb7d-01e8-4672-a5c4-4e76f5bc9258" alt="header" width="460" height="215"> </a>|
-|:----------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| **Genshin Impact Character Selection** | **Pokemon Pocket TCG Pull Simulator** |
-| <a href="https://github.com/maxgreenkirby/Genshin-Impact-Character-Selection/tree/main?tab=readme-ov-file"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a> | <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
+<div class="table-devenvironment">
+  <table style="font-size: 11px">
+  <tr>
+  <td valign="top" width="50%" align="center">
+    
+#### 🎮 **Genshin Impact Character Selection**
+
+A recreation of Genshin Impact's character selection screen with additional features such as string search and favouriting system.
+
+<a href="https://github.com/maxgreenkirby/Genshin-Impact-Character-Selection/tree/main?tab=readme-ov-file"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
+  </td>
+  
+  <td valign="top" width="50%" align="center">
+
+#### 🎮 **Pokemon Pocket TCG Pull Simulator**
+
+<a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
+  </td>
+
+  </tr>
+  </table>
+</div>
 
 <h2 align = "center"> Contact Me 📬 </h2>
 <br><br>
