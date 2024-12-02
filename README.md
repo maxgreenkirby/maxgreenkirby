@@ -88,7 +88,7 @@ A recreation of Genshin Impact's character selection screen with additional feat
 
 A recreation of Pokemon Pocket TCG's pull simulation for desktop.
 
-<a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
+<a href="https://github.com/maxgreenkirby/Pokemon-TCG-Pull-Simulator"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
   </td>
 
   </tr>
