@@ -77,7 +77,7 @@ A 3D isometric slap-fighter where four retired high-fantasy legends battle for R
     
 #### 🎮 **Genshin Impact Character Selection**
 
-A recreation of Genshin Impact's character selection screen with additional features such as string search and favouriting system.
+A recreation of Genshin Impact's character selection screen with additional features and improvements.
 
 <a href="https://github.com/maxgreenkirby/Genshin-Impact-Character-Selection/tree/main?tab=readme-ov-file"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
   </td>
@@ -85,6 +85,8 @@ A recreation of Genshin Impact's character selection screen with additional feat
   <td valign="top" width="50%" align="center">
 
 #### 🎮 **Pokemon Pocket TCG Pull Simulator**
+
+A recreation of Pokemon Pocket TCG's pull simulation for desktop.
 
 <a href=""> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/> </a>
   </td>
