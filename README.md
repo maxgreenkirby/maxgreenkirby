@@ -58,7 +58,7 @@ A cozy flower shop simulation game 𝘨𝘢𝘮𝘦 𝘸𝘪𝘵𝘩 𝘢 17,000
   <td valign="top" width="50%" align="center">
 
 #### 👵🏻 **Retirement Rumble**
-*School Project*
+*Student Project*
 
 A 3D isometric slap-fighter where four retired high-fantasy legends battle for Raging Rita’s Big Room. Fight in her favorite vacation spots, knock out opponents, and use quirky weapons or arena hazards to win. Be the last fogie standing to claim the prize!
 
